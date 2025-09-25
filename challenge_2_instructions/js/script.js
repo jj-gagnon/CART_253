@@ -29,6 +29,7 @@ function setup() {
     // smooth()
     // frameRate(2)
     // noLoop()
+    creat
 }
 
 
