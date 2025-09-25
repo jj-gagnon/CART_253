@@ -22,8 +22,8 @@ let border
 let angle 
 
 function setup() {
-    radius = 50
-    speed = 2
+    radius = 150
+    speed = 8
     border = radius
     angle = 0
     
@@ -31,6 +31,7 @@ function setup() {
     
     background(0,0,0)
     fill(255,255,255)
+    strokeWeight(3)
     
     
     circle_x = width/2
